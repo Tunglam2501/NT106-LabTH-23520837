@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UIT\\LTM\\ThucHanh\\NT106-LabTH-23520837\\Lab02\\Lab02\\Lab02.csproj": {}
+    "D:\\UIT\\LTM\\NT106-LabTH-23520837\\Lab02\\Lab02\\Lab02.csproj": {}
   },
   "projects": {
-    "D:\\UIT\\LTM\\ThucHanh\\NT106-LabTH-23520837\\Lab02\\Lab02\\Lab02.csproj": {
+    "D:\\UIT\\LTM\\NT106-LabTH-23520837\\Lab02\\Lab02\\Lab02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UIT\\LTM\\ThucHanh\\NT106-LabTH-23520837\\Lab02\\Lab02\\Lab02.csproj",
+        "projectUniqueName": "D:\\UIT\\LTM\\NT106-LabTH-23520837\\Lab02\\Lab02\\Lab02.csproj",
         "projectName": "Lab02",
-        "projectPath": "D:\\UIT\\LTM\\ThucHanh\\NT106-LabTH-23520837\\Lab02\\Lab02\\Lab02.csproj",
+        "projectPath": "D:\\UIT\\LTM\\NT106-LabTH-23520837\\Lab02\\Lab02\\Lab02.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "D:\\UIT\\LTM\\ThucHanh\\NT106-LabTH-23520837\\Lab02\\Lab02\\obj\\",
+        "outputPath": "D:\\UIT\\LTM\\NT106-LabTH-23520837\\Lab02\\Lab02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",
