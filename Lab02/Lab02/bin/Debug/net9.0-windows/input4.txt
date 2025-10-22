@@ -1,0 +1,11 @@
+[
+  {
+    "HoTen": "Lam",
+    "MSSV": 23520837,
+    "DienThoai": "0987270053",
+    "DiemMon1": 10,
+    "DiemMon2": 10,
+    "DiemMon3": 10,
+    "DiemTrungBinh": 0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HoTen": "Hieu",
+    "MSSV": 12345678,
+    "DienThoai": "0987654321",
+    "DiemMon1": 9,
+    "DiemMon2": 9,
+    "DiemMon3": 9,
+    "DiemTrungBinh": 9
+  },
+  {
+    "HoTen": "Lam",
+    "MSSV": 12345678,
+    "DienThoai": "0987654321",
+    "DiemMon1": 9,
+    "DiemMon2": 9,
+    "DiemMon3": 9,
+    "DiemTrungBinh": 9
+  },
+  {
+    "HoTen": "Quan",
+    "MSSV": 12345678,
+    "DienThoai": "0987654321",
+    "DiemMon1": 9,
+    "DiemMon2": 9,
+    "DiemMon3": 9,
+    "DiemTrungBinh": 9
+  },
+  {
+    "HoTen": "Minh",
+    "MSSV": 12345678,
+    "DienThoai": "0987654321",
+    "DiemMon1": 9,
+    "DiemMon2": 9,
+    "DiemMon3": 9,
+    "DiemTrungBinh": 0
+  }
+]

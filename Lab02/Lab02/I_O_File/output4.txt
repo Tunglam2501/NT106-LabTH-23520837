@@ -1,0 +1,39 @@
+DANH SÁCH SINH VIÊN VÀ ĐIỂM TRUNG BÌNH
+========================================
+
+Sinh viên 1:
+  Họ tên: Hieu
+  MSSV: 12345678
+  Điện thoại: 0987654321
+  Điểm môn 1: 9.0
+  Điểm môn 2: 9.0
+  Điểm môn 3: 9.0
+  Điểm trung bình: 9.00
+
+Sinh viên 2:
+  Họ tên: Lam
+  MSSV: 12345678
+  Điện thoại: 0987654321
+  Điểm môn 1: 9.0
+  Điểm môn 2: 9.0
+  Điểm môn 3: 9.0
+  Điểm trung bình: 9.00
+
+Sinh viên 3:
+  Họ tên: Quan
+  MSSV: 12345678
+  Điện thoại: 0987654321
+  Điểm môn 1: 9.0
+  Điểm môn 2: 9.0
+  Điểm môn 3: 9.0
+  Điểm trung bình: 9.00
+
+Sinh viên 4:
+  Họ tên: Minh
+  MSSV: 12345678
+  Điện thoại: 0987654321
+  Điểm môn 1: 9.0
+  Điểm môn 2: 9.0
+  Điểm môn 3: 9.0
+  Điểm trung bình: 9.00
+
